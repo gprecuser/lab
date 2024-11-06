@@ -1,0 +1,11 @@
+commands
+
+ipconfig 
+ipconfigall
+ping
+tracert
+hostname
+systeminfo
+pathping
+netstat
+arp
